@@ -1,0 +1,1 @@
+# cover-art-detector-frontend
